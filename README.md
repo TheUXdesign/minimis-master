@@ -1,2 +1,2 @@
-# design_profile
+# minimis-master
 My work profile
